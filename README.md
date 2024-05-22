@@ -1,7 +1,6 @@
 # FRDCDataCleaning
 Data cleaning code FRDC project
 
-
 # Convert Commonwealth data into the flat table
 ------
 ### Start with table LogSheetEvent and pull information from other tables:
